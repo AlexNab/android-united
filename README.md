@@ -3,7 +3,7 @@ http://android-united.community
 
 ### About us
 Android United is a friendly community of Android developers.<br/> 
-At the moment we unite more than 3000 people from all over the world. We share our experience, knowledge and relevant news about Android and mobile technologies. We help each other.
+At the moment we unite more than 6000 people from all over the world. We share our experience, knowledge and relevant news about Android and mobile technologies. We help each other.
 
 ### Code of conduct
 We strongly encourage politeness, honesty and professionalism in communication.  
